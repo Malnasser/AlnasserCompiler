@@ -1,0 +1,7 @@
+C:\Users\Mahmood\Desktop\AlnasserCompiler8\AlnasserCompiler8\bin\Debug\AlnasserCompiler8.exe.config
+C:\Users\Mahmood\Desktop\AlnasserCompiler8\AlnasserCompiler8\bin\Debug\AlnasserCompiler8.exe
+C:\Users\Mahmood\Desktop\AlnasserCompiler8\AlnasserCompiler8\bin\Debug\AlnasserCompiler8.pdb
+C:\Users\Mahmood\Desktop\AlnasserCompiler8\AlnasserCompiler8\obj\Debug\AlnasserCompiler8.csprojAssemblyReference.cache
+C:\Users\Mahmood\Desktop\AlnasserCompiler8\AlnasserCompiler8\obj\Debug\AlnasserCompiler8.csproj.CoreCompileInputs.cache
+C:\Users\Mahmood\Desktop\AlnasserCompiler8\AlnasserCompiler8\obj\Debug\AlnasserCompiler8.exe
+C:\Users\Mahmood\Desktop\AlnasserCompiler8\AlnasserCompiler8\obj\Debug\AlnasserCompiler8.pdb
